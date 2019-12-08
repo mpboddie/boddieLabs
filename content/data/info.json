@@ -1,10 +1,10 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>We live in a time where we are capable of doing far more things that we should reasonably do. This is where I discuss completely unreasonable trials, tribulations, and with a bit of luck... successes.</p>",
+  "cta": "<p>For the answer to the meaning of life, see below.</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "mark@boddielabs.com",
+    "twitter_handle": "boddie",
+    "github_handle": "mpboddie"
   },
   "background_color": "#B1BCBC"
 }
