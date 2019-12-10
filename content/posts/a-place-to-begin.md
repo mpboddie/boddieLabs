@@ -1,7 +1,7 @@
 ---
 title: A Place to Begin
 date: '2019-12-09T20:21:31.000Z'
-hero_image: ../images/jj-ying-7JX0-bfiuxQ-unsplash.jpg
+hero_image: ../images/background-3045402_1920.png
 author: Mark Boddie
 ---
 
